@@ -1,4 +1,4 @@
-Project created using - Javascript, jQuery, CanvasJS, Bootstrap
+# Project created using - Javascript, jQuery, CanvasJS, Bootstrap
 A Crypto coins project for a customer who can see and track his favorite crypto coins.
 
 # If LiveServer not installed (Using Visual Studio Code)
